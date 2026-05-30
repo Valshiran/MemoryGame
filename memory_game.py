@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 # Theme Configuration - Make sure these match your exact file names!
 THEMES = {
     "Animals": ["giraffe.png", "dog.png", "flamingo.png", "kangaroo.png", "sheep.png", "sloth.png", "tiger.png", "zebra.png"],
-    "Fantasy": ["hardman.png", "gemini.png", "megaman.png", "needleman.png", "rush.png", "shadowman.png", "sparkman.png", "topman.png"]
+    "Mega Man": ["hardman.png", "gemini.png", "megaman.png", "needleman.png", "rush.png", "shadowman.png", "sparkman.png", "topman.png"]
 }
 
 HIDDEN_COLOR = "white"     
