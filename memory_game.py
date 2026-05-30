@@ -2,7 +2,8 @@ import os
 import random
 import tkinter as tk
 from tkinter import messagebox
-# 1. NEW IMPORTS: This brings in Pillow to handle images seamlessly
+
+# NEW IMPORTS: This brings in Pillow to handle images seamlessly
 from PIL import Image, ImageTk
 
 # Theme Configuration - Make sure these match your exact file names!
